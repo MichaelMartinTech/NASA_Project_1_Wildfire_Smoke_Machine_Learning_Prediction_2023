@@ -1,8 +1,3 @@
----
-# Copyright Notice
-All rights reserved. This code is proprietary and may not be copied, distributed, or used without explicit permission from the owner.
----
-
 # Wildfire_Smoke_ML_Prediction_2023
 Author: Michael R. Martin
 
@@ -46,3 +41,8 @@ After rescaling the and reshaping through statistical analysis, several ML model
     'Ridge'
     'SVR'
 Linear regression statistics are then calculated and displayed to the user after training and prediction with train and test data respectively.
+
+---
+# Copyright Notice
+All rights reserved. This code is proprietary and may not be copied, distributed, or used without explicit permission from the owner.
+---
